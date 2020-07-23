@@ -2,3 +2,4 @@ belajar basis data kelas xii
 -administrasi basis data scheme
 -materi DML sql bertingkat
 -sql DCL (grant revoke)
+-import data
